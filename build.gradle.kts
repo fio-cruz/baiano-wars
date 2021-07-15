@@ -17,7 +17,6 @@ repositories {
 
 dependencies {
     compileOnly("org.spigotmc:spigot:1.8.8-R0.1-SNAPSHOT")
-    pdm("fr.mrmicky:fastboard:1.2.0")
 }
 
 java.sourceCompatibility = JavaVersion.VERSION_1_8
